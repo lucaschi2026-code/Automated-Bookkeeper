@@ -1,5 +1,5 @@
 # Automated-Bookkeeper
-An bookkeeping automation tool that extracts transactions from messy Markdown bank statements, categorizes merchants, and safely appends data to an Excel ledger without breaking formulas.
+A bookkeeping automation tool that extracts transactions from messy Markdown bank statements, categorizes merchants, and safely appends data to an Excel ledger without breaking formulas.
 
 # Features and Workflow
 1. Upload a markdown of credit card bank statements. This repo is optimized for RBC credit card statements. Note that this repo works best when pdfs are converted to markdowns with Microsoft's Markitdown: https://github.com/microsoft/markitdown
